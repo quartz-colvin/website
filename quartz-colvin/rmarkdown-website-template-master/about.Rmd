@@ -31,9 +31,29 @@ knitr::include_graphics("./images/Fable_wink.jpg")
 
 ```{r, out.height="25%", out.width="25%", echo=FALSE}
 knitr::include_graphics("./images/gible.jpg")
+knitr::include_graphics("./images/falafel_ball1.jpg")
+knitr::include_graphics("./images/falafel_ball2.jpg")
 ```
 
 ```{r, out.height="25%", out.width="25%", echo=FALSE}
 knitr::include_graphics("./images/soup_gouda.jpg")
+knitr::include_graphics("./images/falafel_santa.jpg")
+knitr::include_graphics("./images/gouda.jpg")
 ```
+
+```{r, out.height="25%", out.width="25%", echo=FALSE}
+knitr::include_graphics("./images/sesame.jpg")
+knitr::include_graphics("./images/sesame1.jpg")
+knitr::include_graphics("./images/sesame2.jpg")
+
+```
+
+
+```{r, out.height="25%", out.width="25%", echo=FALSE}
+knitr::include_graphics("./images/butter_solo.jpg")
+knitr::include_graphics("./images/butter_skritches.jpg")
+knitr::include_graphics("./images/sesame_climbs.jpg")
+
+```
+
 
