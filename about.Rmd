@@ -25,12 +25,11 @@ Every week I play [D&D](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) onli
 
 ## Pet photos 
 
-<img src="images/butter.jpg">
 
 ```{r, out.height="25%", out.width="25%", echo=FALSE}
-#knitr::include_graphics("./images/butter.jpg")
-#knitr::include_graphics("./images/fable.jpg")
-#knitr::include_graphics("./images/Fable_wink.jpg")
+knitr::include_graphics("./images/butter.jpg")
+knitr::include_graphics("./images/fable.jpg")
+knitr::include_graphics("./images/Fable_wink.jpg")
 ```
 
 ```{r, out.height="25%", out.width="25%", echo=FALSE}
