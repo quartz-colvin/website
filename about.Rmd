@@ -65,6 +65,6 @@ knitr::include_graphics("./images/echidna.jpg")
 ```
 
 ```{r, out.height="25%", out.width="25%", echo=FALSE}
-knitr::include_graphics("./images/castor.jpg")
+#knitr::include_graphics("./images/castor.jpg")
 ```
 
