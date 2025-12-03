@@ -1,0 +1,59 @@
+---
+title: "About me"
+---
+
+## Hi, I'm Quartz!
+
+Originally from northwest Arkansas, I was raised back and forth between my dad’s big family in rural Arkansas and my mom’s big family in rural Wisconsin. At this point, much of my family is spread out across the US (I'm the 3rd oldest of 7 kids), but visiting always entails going to one of those two states. 
+
+```{r, out.height="25%", out.width="25%", echo=FALSE}
+knitr::include_graphics("./images/ar_wi_map.png")
+```
+
+Outside of school, I take care of several small animals. I currently have pet rats, a hamster, a frog, a leopard gecko, hermit crabs, and two cats. For rodents I have a 'food names' naming convention, for reptiles and amphibians, I have a 'mythology' naming convention, and so far for the cats we have a Pokemon naming convention. The cats are named Gible (the tabby boy) and Clefable (the tuxedo girl). 
+
+```{r, out.height="25%", out.width="25%", echo=FALSE}
+knitr::include_graphics("./images/children.jpg")
+```
+
+*You can find a bunch of cute pictures of my pets if you scroll down on this page! :)*
+
+Every week I play [D&D](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) online with my friends in other states, and I generally try to go to concerts and travel as often as possible. The concerts are usually alternative or metal, but I listen to a lot of different things. 
+
+
+## Pet photos 
+
+```{r, out.height="25%", out.width="25%", echo=FALSE}
+knitr::include_graphics("./images/butter.jpg")
+knitr::include_graphics("./images/fable.jpg")
+knitr::include_graphics("./images/Fable_wink.jpg")
+```
+
+```{r, out.height="25%", out.width="25%", echo=FALSE}
+knitr::include_graphics("./images/gible.jpg")
+knitr::include_graphics("./images/falafel_ball1.jpg")
+knitr::include_graphics("./images/falafel_ball2.jpg")
+```
+
+```{r, out.height="25%", out.width="25%", echo=FALSE}
+knitr::include_graphics("./images/soup_gouda.jpg")
+knitr::include_graphics("./images/falafel_santa.jpg")
+knitr::include_graphics("./images/gouda.jpg")
+```
+
+```{r, out.height="25%", out.width="25%", echo=FALSE}
+knitr::include_graphics("./images/sesame.jpg")
+knitr::include_graphics("./images/sesame1.jpg")
+knitr::include_graphics("./images/sesame2.jpg")
+
+```
+
+
+```{r, out.height="25%", out.width="25%", echo=FALSE}
+knitr::include_graphics("./images/butter_solo.jpg")
+knitr::include_graphics("./images/butter_skritches.jpg")
+knitr::include_graphics("./images/sesame_climbs.jpg")
+
+```
+
+
