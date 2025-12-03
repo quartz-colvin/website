@@ -2,7 +2,33 @@
 title: "Curriculum Vitae"
 ---
 
-Download a PDF of my CV here: <a href="CV.pdf#" class="download" title="CV">download</a>.			
+You can download a PDF of my CV here: <a href="CV.pdf#" class="download" title="CV">download</a>. You can also view the most recent version of my CV in Google docs [here](https://docs.google.com/document/d/1n0LoET94ZB4UnBt8x2fbAGGQz_KrbAjMj5boW7jGQYo/edit?usp=sharing).
 
-View the most recent version of my CV [here](https://docs.google.com/document/d/1n0LoET94ZB4UnBt8x2fbAGGQz_KrbAjMj5boW7jGQYo/edit?usp=sharing).
+
+**My most recent presentations and publications are listed here.**
+
+
+# Presentations
+
+## 2025
+
+“The Cheyenne Potential, Irrealis and Conditional Modes.” **[Poster]**. Mid-Atlantic Colloquium of Studies in Meaning (MACSIM 11). John Hopkins University, Baltimore, Maryland, USA.
+
+“A cover analysis of the plural classifier in Hmong.” **[Talk]**. Sinn und Bedeutung. Goethe University Frankfurt, Frankfurt, Germany.
+
+“The semantics of Hmong indefinites.” **[Talk]**. International Conference on Sino-Tibetan Languages and Linguistics. Universität Bern, Bern, Switzerland.
+
+“The syntax of White Hmong reciprocals and reflexives.” **[Poster]**. Mismatches in Anaphoric Relations. Universität Graz, Graz, Austria.
+
+
+## 2024
+
+“The Cheyenne Potential, Irrealis and Conditional Modes.” **[Poster]**. Semantics of Under-represented Languages of the Americas. Federal University of Santa Catarina, Florianópolis, Brazil.
+
+
+# Publications
+
+## Editor
+
+Avelino, G., Balihaxi, M., Colvin, Q., Czarnecki, V., Joo, H., Wang, C., Zobarlar, U., Jardine, A. & McCollum, A., (2025) “Editors' Note”, Proceedings of the Annual Meetings on Phonology 1(1). doi: https://doi.org/10.7275/amphonology.3007
 
