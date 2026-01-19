@@ -14,9 +14,9 @@ You can download a PDF of my CV here: <a href="CV.pdf#" class="download" title="
 
 “The Cheyenne Potential, Irrealis and Conditional Modes.” **[Poster]**. Mid-Atlantic Colloquium of Studies in Meaning (MACSIM 11). John Hopkins University, Baltimore, Maryland, USA.
 
-“A cover analysis of the plural classifier in Hmong.” **[Talk]**. Sinn und Bedeutung. Goethe University Frankfurt, Frankfurt, Germany.
+“A cover analysis of the plural classifier in Hmong.” **[Talk]**. Sinn und Bedeutung. Goethe University Frankfurt, Frankfurt, Germany. [**[Slides](https://quartz-colvin.github.io/SuB30/)**]
 
-“The semantics of Hmong indefinites.” **[Talk]**. International Conference on Sino-Tibetan Languages and Linguistics. Universität Bern, Bern, Switzerland.
+“The semantics of Hmong indefinites.” **[Talk]**. International Conference on Sino-Tibetan Languages and Linguistics. Universität Bern, Bern, Switzerland. [**[Slides](https://quartz-colvin.github.io/ICSTLL58/)**]
 
 “The syntax of White Hmong reciprocals and reflexives.” **[Poster]**. Mismatches in Anaphoric Relations. Universität Graz, Graz, Austria.
 
