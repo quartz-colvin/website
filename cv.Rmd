@@ -7,28 +7,68 @@ You can download a PDF of my CV here: <a href="CV.pdf#" class="download" title="
 
 **My most recent presentations and publications are listed here.**
 
+<br>
 
-# Presentations
+# <span style="color:red">Presentations</span>
+
+## 2026 
+
+### Peer-reviewed Conference Presentations
+
+***(upcoming)*** "Anaphora and R-expression interaction." **[Talk]**. *Rules and Exceptions in Anaphoric Processing (RED)*. May 21-22. Brașov, Romania. [Slides]
+
+
+### Other Presentations
+
+***(upcoming)*** "Anaphora and R-expression interaction: Insights from Hmong." *RULing 2026*.
+
+<br>
+
+
 
 ## 2025
 
-“The Cheyenne Potential, Irrealis and Conditional Modes.” **[Poster]**. Mid-Atlantic Colloquium of Studies in Meaning (MACSIM 11). John Hopkins University, Baltimore, Maryland, USA.
+### Peer-reviewed Conference Presentations
 
-“A cover analysis of the plural classifier in Hmong.” **[Talk]**. Sinn und Bedeutung. Goethe University Frankfurt, Frankfurt, Germany. [**[Slides](https://quartz-colvin.github.io/SuB30/)**]
+“The Cheyenne Potential, Irrealis and Conditional Modes.” **[Poster]**. *Mid-Atlantic Colloquium of Studies in Meaning (MACSIM 11)*. John Hopkins University, Baltimore, Maryland, USA.
 
-“The semantics of Hmong indefinites.” **[Talk]**. International Conference on Sino-Tibetan Languages and Linguistics. Universität Bern, Bern, Switzerland. [**[Slides](https://quartz-colvin.github.io/ICSTLL58/)**]
+“A cover analysis of the plural classifier in Hmong.” **[Talk]**. *Sinn und Bedeutung 30*. Goethe University Frankfurt, Frankfurt, Germany. [**[Slides](https://quartz-colvin.github.io/SuB30/)**]
 
-“The syntax of White Hmong reciprocals and reflexives.” **[Poster]**. Mismatches in Anaphoric Relations. Universität Graz, Graz, Austria.
+“The semantics of Hmong indefinites.” **[Talk]**. *International Conference on Sino-Tibetan Languages and Linguistics.* Universität Bern, Bern, Switzerland. [**[Slides](https://quartz-colvin.github.io/ICSTLL58/)**]
+
+“The syntax of White Hmong reciprocals and reflexives.” **[Poster]**. *Mismatches in Anaphoric Relations* (RED). Universität Graz, Graz, Austria.
+
+
+### Other Presentations
+
+"The semantics of Hmong (in)definiteness." *RULing 2025.*
+
+<br>
 
 
 ## 2024
 
-“The Cheyenne Potential, Irrealis and Conditional Modes.” **[Poster]**. Semantics of Under-represented Languages of the Americas. Federal University of Santa Catarina, Florianópolis, Brazil.
+“The Cheyenne Potential, Irrealis and Conditional Modes.” **[Poster]**. *Semantics of Under-represented Languages of the Americas*. Federal University of Santa Catarina, Florianópolis, Brazil.
 
+<br>
 
-# Publications
+# <span style="color:red">Publications</span>
 
-## Editor
+## Upcoming...
 
-Avelino, G., Balihaxi, M., Colvin, Q., Czarnecki, V., Joo, H., Wang, C., Zobarlar, U., Jardine, A. & McCollum, A., (2025) “Editors' Note”, Proceedings of the Annual Meetings on Phonology 1(1). doi: https://doi.org/10.7275/amphonology.3007
+***(Under revision).*** Quartz Colvin. "White Hmong Reciprocals and Reflexives." To appear in *RED-2025 Proceedings, Mismatches in Anaphoric Relations*, University Library Graz.
+
+***(Under review).*** Quartz Colvin. "A cover analysis of the plural classifier in Hmong." To appear in *Proceedings of Sinn und Bedeutung 30.*
+
+***(Under review).*** Quartz Colvin. "The semantics of Hmong (in)definiteness." [manuscript].
+<br>
+
+***(Book proposal under review).*** Murray, S., Colvin, Q. Weber, N. "Cheyenne" chapter in *Phonological domains in Algonquian and other morphologically complex languages.* Weber, Natalie (ed.).
+
+<br>
+
+## 2025
+
+Avelino, G., Balihaxi, M., Colvin, Q., Czarnecki, V., Joo, H., Wang, C., Zobarlar, U., Jardine, A. & McCollum, A., (2025) “Editors' Note”, *Proceedings of the Annual Meetings on Phonology 1(1)*. doi: https://doi.org/10.7275/amphonology.3007
+
 
