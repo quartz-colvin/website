@@ -13,7 +13,7 @@ You can download a PDF of my CV here: <a href="CV.pdf#" class="download" title="
 
 ## 2026 
 
-### Peer-reviewed Conference Presentations
+### Peer-reviewed 
 
 ***(upcoming)*** "Anaphora and R-expression interaction." **[Talk]**. *Rules and Exceptions in Anaphoric Processing (RED)*. May 21-22. Brașov, Romania. [Slides]
 
@@ -28,7 +28,7 @@ You can download a PDF of my CV here: <a href="CV.pdf#" class="download" title="
 
 ## 2025
 
-### Peer-reviewed Conference Presentations
+### Peer-reviewed 
 
 “The Cheyenne Potential, Irrealis and Conditional Modes.” **[Poster]**. *Mid-Atlantic Colloquium of Studies in Meaning (MACSIM 11)*. John Hopkins University, Baltimore, Maryland, USA.
 
