@@ -15,7 +15,13 @@ You can download a PDF of my CV here: <a href="CV.pdf#" class="download" title="
 
 ### Peer-reviewed 
 
+***(upcoming)*** "The semantics of White Hmong (in)definiteness." **[Poster]**. *TripleA*. May 12-15. Vancouver, Canada.
+
 ***(upcoming)*** "Anaphora and R-expression interaction." **[Talk]**. *Rules and Exceptions in Anaphoric Processing (RED)*. May 21-22. Brașov, Romania. [Slides]
+
+***(upcoming)*** "Variation of w~v in Cook Islands Māori: A statistical approach." **[Talk]**. *The 33rd Annual Meeting of the Austronesian Formal Linguistics Association,* special Te reo Māori session. Wellington, New Zealand. [Slides]
+
+***(upcoming)*** Sally Akevai Nicholas, Rolando Coto-Solano, <b>Quartz Colvin</b>, Gwendolyn Tait, Violet King. "Using Automatic Speech Recognition for documentation of Cook Island Māori. **[Talk]**. *The 33rd Annual Meeting of the Austronesian Formal Linguistics Association,* special Te reo Māori session. Wellington, New Zealand. [Slides]
 
 
 ### Other Presentations
@@ -54,9 +60,21 @@ You can download a PDF of my CV here: <a href="CV.pdf#" class="download" title="
 
 # <span style="color:red">Publications</span>
 
-## Upcoming...
+## 2026
 
-***(Under revision).*** Quartz Colvin. "White Hmong Reciprocals and Reflexives." To appear in *RED-2025 Proceedings, Mismatches in Anaphoric Relations*, University Library Graz.
+Quartz Colvin. "White Hmong Reciprocals and Reflexives." **To appear** in *RED-2025 Proceedings, Mismatches in Anaphoric Relations*, University Library Graz.
+
+<br>
+
+
+
+## 2025
+
+Avelino, G., Balihaxi, M., Colvin, Q., Czarnecki, V., Joo, H., Wang, C., Zobarlar, U., Jardine, A. & McCollum, A., (2025) “Editors' Note”, *Proceedings of the Annual Meetings on Phonology 1(1)*. doi: https://doi.org/10.7275/amphonology.3007
+
+<br>
+
+## Upcoming...
 
 ***(Under review).*** Quartz Colvin. "A cover analysis of the plural classifier in Hmong." To appear in *Proceedings of Sinn und Bedeutung 30.*
 
@@ -64,11 +82,4 @@ You can download a PDF of my CV here: <a href="CV.pdf#" class="download" title="
 <br>
 
 ***(Book proposal under review).*** Murray, S., Colvin, Q. Weber, N. "Cheyenne" chapter in *Phonological domains in Algonquian and other morphologically complex languages.* Weber, Natalie (ed.).
-
-<br>
-
-## 2025
-
-Avelino, G., Balihaxi, M., Colvin, Q., Czarnecki, V., Joo, H., Wang, C., Zobarlar, U., Jardine, A. & McCollum, A., (2025) “Editors' Note”, *Proceedings of the Annual Meetings on Phonology 1(1)*. doi: https://doi.org/10.7275/amphonology.3007
-
 
