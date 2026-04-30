@@ -28,6 +28,8 @@ You can download a PDF of my CV here: <a href="CV.pdf#" class="download" title="
 
 ***(upcoming)*** "Anaphora and R-expression interaction: Insights from Hmong." *RULing 2026*.
 
+"Vowel epenthesis in Cheyenne verb initials." **[Talk]**.*Language at Crossroads*. Rutgers University, New Brunswick, New Jersey, USA.
+
 <br>
 
 
@@ -81,5 +83,5 @@ Avelino, G., Balihaxi, M., Colvin, Q., Czarnecki, V., Joo, H., Wang, C., Zobarla
 ***(Under review).*** Quartz Colvin. "The semantics of Hmong (in)definiteness." [manuscript].
 <br>
 
-***(Book proposal under review).*** Murray, S., Colvin, Q. Weber, N. "Cheyenne" chapter in *Phonological domains in Algonquian and other morphologically complex languages.* Weber, Natalie (ed.).
+***(under review).*** Quartz Colvin. "The Cheyenne Potential, Irrealis and Conditional Modes." To appear in *Proceedings of SULA 13.* 
 
