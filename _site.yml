@@ -13,6 +13,9 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
+    - text: "Teaching"
+      icon: fa-chalkboard-teacher
+      href: teaching.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o

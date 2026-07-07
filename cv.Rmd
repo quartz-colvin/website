@@ -15,20 +15,20 @@ You can download a PDF of my CV here: <a href="CV.pdf#" class="download" title="
 
 ### Peer-reviewed 
 
-***(upcoming)*** "The semantics of White Hmong (in)definiteness." **[Poster]**. *TripleA*. May 12-15. Vancouver, Canada.
+"The semantics of White Hmong (in)definiteness." **[Poster]**. *TripleA*. May 12-15. Vancouver, Canada.
 
-***(upcoming)*** "Anaphora and R-expression interaction." **[Talk]**. *Rules and Exceptions in Anaphoric Processing (RED)*. May 21-22. Brașov, Romania. [Slides]
+"Anaphora and R-expression interaction." **[Talk]**. *Rules and Exceptions in Anaphoric Processing (RED)*. May 21-22. Brașov, Romania. [Slides]
 
-***(upcoming)*** "Variation of w~v in Cook Islands Māori: A statistical approach." **[Talk]**. *The 33rd Annual Meeting of the Austronesian Formal Linguistics Association,* special Te reo Māori session. Wellington, New Zealand. [Slides]
+"Variation of w~v in Cook Islands Māori: A statistical approach." **[Talk]**. *The 33rd Annual Meeting of the Austronesian Formal Linguistics Association,* special Te reo Māori session. Wellington, New Zealand. [Slides]
 
-***(upcoming)*** Sally Akevai Nicholas, Rolando Coto-Solano, <b>Quartz Colvin</b>, Gwendolyn Tait, Violet King. "Using Automatic Speech Recognition for documentation of Cook Island Māori. **[Talk]**. *The 33rd Annual Meeting of the Austronesian Formal Linguistics Association,* special Te reo Māori session. Wellington, New Zealand. [Slides]
+Sally Akevai Nicholas, Rolando Coto-Solano, <b>Quartz Colvin</b>, Gwendolyn Tait, Violet King. "Using Automatic Speech Recognition for documentation of Cook Island Māori. **[Talk]**. *The 33rd Annual Meeting of the Austronesian Formal Linguistics Association,* special Te reo Māori session. Wellington, New Zealand. [Slides]
 
 
 ### Other Presentations
 
-***(upcoming)*** "Anaphora and R-expression interaction: Insights from Hmong." *RULing 2026*.
+"Anaphora and R-expression interaction: Insights from Hmong." *RULing 2026*.
 
-"Vowel epenthesis in Cheyenne verb initials." **[Talk]**.*Language at Crossroads*. Rutgers University, New Brunswick, New Jersey, USA.
+"Vowel epenthesis in Cheyenne verb initials." **[Talk]**. *Language at Crossroads*. Rutgers University, New Brunswick, New Jersey, USA.
 
 <br>
 
@@ -79,9 +79,9 @@ Avelino, G., Balihaxi, M., Colvin, Q., Czarnecki, V., Joo, H., Wang, C., Zobarla
 ## Upcoming...
 
 ***(Under review).*** Quartz Colvin. "A cover analysis of the plural classifier in Hmong." To appear in *Proceedings of Sinn und Bedeutung 30.*
-
-***(Under review).*** Quartz Colvin. "The semantics of Hmong (in)definiteness." [manuscript].
 <br>
 
 ***(under review).*** Quartz Colvin. "The Cheyenne Potential, Irrealis and Conditional Modes." To appear in *Proceedings of SULA 13.* 
+<br>
 
+***(Under review).*** Quartz Colvin. "Anaphora and R-expression Interaction." **To appear** in *RED-2026 Proceedings,* University Library Graz. 

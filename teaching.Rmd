@@ -3,3 +3,19 @@ title: "Teaching"
 output: html_document
 ---
 
+**Fall 2026**
+
+- <span style="color:red">Exploring Language</span> [instructor; undergraduate]
+
+  - *asynchronous*
+
+**Spring 2026**
+
+- <span style="color:red">Introduction to Linguistic Theory</span> [instructor; undergraduate]
+
+**Fall 2025**
+
+- <span style="color:red">Introduction to Linguistic Theory</span> [TA; undergraduate]
+
+
+
