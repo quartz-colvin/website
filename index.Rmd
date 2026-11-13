@@ -2,7 +2,7 @@
 title: "Welcome to my personal website!"
 ---
 
-I am a linguistics PhD student who works on **semantics, syntax, morphology and their interfaces**, strongly emphasizing language documentation and **fieldwork methodologies**. Currently I am in my third year at **Rutgers University**, where most of my recent work has been on nominal structures and semantics in **White Hmong** (my partner's language).
+I am a linguistics PhD student who works on **semantics, syntax, morphology and their interfaces**, strongly emphasizing language documentation and **fieldwork methodologies**. Currently I am in my fourth year at **Rutgers University**, where most of my recent work has been on nominal structures and semantics in **White Hmong** (my spouse's other native language).
 
 ```{r, out.height="50%", out.width="50%", echo=FALSE, fig.cap="Me in Budapest 2025.", fig.align='center'}
 knitr::include_graphics("./images/budapest.jpg",)
@@ -11,7 +11,9 @@ knitr::include_graphics("./images/budapest.jpg",)
 
 ### Language experience
 
-But, I have worked with a range of languages. The language groups I have experience with are **Algonquian** (Ojibwe, Cheyenne, Arapaho, Shinnecock), **Hmong-Mien** (White Hmong), **Semitic** (Arabic varieties), and **Polynesian** (Cook Islands Māori). In field methods courses, I have also worked with an **Igbo** speaker and a **Yemba** speaker.
+But, I have worked with a range of languages. The language groups I have experience with are **Algonquian** (Ojibwe, Cheyenne, Arapaho, Shinnecock), **Hmong-Mien** (White Hmong), **Semitic** (Arabic varieties), and **Polynesian** (Cook Islands Māori). In field methods courses, I have also worked with speakers of **Igbo**, **Yemba**, and **Banjara**.
+
+Nowadays, I *primarily* work on **White Hmong**, **Banjara**, and **Cook Islands Māori**. Since 2024, I've been involved with a larger collaborative project of documenting Cook Islands Māori and developing NLP tools for the language. If you're interested in seeing the NLP outputs of this collaboration, there's a website [**here**](https://cim-asr.streamlit.app/) that has the usable tools from the project.
 
 ### Academic journey
 

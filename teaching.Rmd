@@ -3,6 +3,10 @@ title: "Teaching"
 output: html_document
 ---
 
+**Spring 2027**
+
+- <span style="color:red">Introduction to Linguistic Theory</span> [instructor; undergraduate]
+
 **Fall 2026**
 
 - <span style="color:red">Exploring Language</span> [instructor; undergraduate]
